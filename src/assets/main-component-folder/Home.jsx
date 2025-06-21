@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <section className="home">
-        <img src="/public/home.png" alt="homepage" />
+        <img src="home.png" alt="homepage" />
         <div className="text-section">
           <h2>You got the travel plans, we got the travel vans.</h2>
           <p>
