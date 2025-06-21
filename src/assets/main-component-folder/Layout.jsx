@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <header>
         <Link to=".">
-          <img src="/public/logo.png" alt="van-logo" />
+          <img src="logo.png" alt="van-logo" />
         </Link>
         <nav>
           <Link to="about">About</Link>
