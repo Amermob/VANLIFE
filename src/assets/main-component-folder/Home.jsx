@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
+import homeImg from "../main-component-folder/img/home.png"
 
 export default function Home() {
   return (
     <>
       <section className="home">
-        <img src="home.png" alt="homepage" />
+        <img src={homeImg} alt="homepage" />
         <div className="text-section">
           <h2>You got the travel plans, we got the travel vans.</h2>
           <p>
